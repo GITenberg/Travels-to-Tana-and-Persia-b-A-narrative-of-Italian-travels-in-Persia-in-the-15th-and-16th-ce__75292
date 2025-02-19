@@ -1,0 +1,66 @@
+_repo: Travels-to-Tana-and-Persia-b-A-narrative-of-Italian-travels-in-Persia-in-the-15th-and-16th-ce__75292
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Roy, Eugene Armand
+    aliases:
+    - Roy, S. A.
+    - Roy, E. A.
+    gutenberg_agent_id: '57927'
+    url: http://www.gutenberg.org/2009/agents/57927
+  - agent_name: Thomas, William
+    deathdate: 1554
+    gutenberg_agent_id: '57917'
+    url: http://www.gutenberg.org/2009/agents/57917
+creator:
+  authors:
+  - agent_name: Barbaro, Giosofat
+    aliases:
+    - Barbaro, Josafa
+    - Barbaro, Iosaphat
+    - Barbaro, Giosaphat
+    - Barbaro, Josaphat
+    birthdate: 1413
+    deathdate: 1494
+    gutenberg_agent_id: '57925'
+    url: http://www.gutenberg.org/2009/agents/57925
+    wikipedia: https://en.wikipedia.org/wiki/Giosafat_Barbaro
+  - agent_name: Contarini, Ambrogio
+    birthdate: 1429
+    deathdate: 1499
+    gutenberg_agent_id: '57926'
+    url: http://www.gutenberg.org/2009/agents/57926
+    wikipedia: https://en.wikipedia.org/wiki/Ambrogio_Contarini
+  editor:
+    agent_name: Stanley, Henry Edward John Stanley, Baron
+    alias: Stanley of Alderley, Lord
+    birthdate: 1827
+    deathdate: 1903
+    gutenberg_agent_id: '39352'
+    url: http://www.gutenberg.org/2009/agents/39352
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Stanley,_3rd_Baron_Stanley_of_Alderley
+description: ''
+gutenberg_issued: '2025-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75292'
+language: en
+pgterms:marc904: https://archive.org/details/travelstotanaper00barb
+pgterms:marc905: 20210706161028barbaro
+pgterms:marc906: '1873'
+pgterms:marc907: US
+production_note: Turgut Dincer and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bBurt Franklin, $c1873.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Works issued by the Hakluyt Society ; no. 49
+subjects:
+- !lcsh 'Voyages and travels -- Early works to 1800'
+- !lcsh 'Iran -- Description and travel -- Early works to 1800'
+- !lcc 'G'
+- GITenberg
+title: 'Travels to Tana and Persia : $b A narrative of Italian travels in Persia,
+  in the 15th and 16th centuries'
+url: http://www.gutenberg.org/ebooks/75292
