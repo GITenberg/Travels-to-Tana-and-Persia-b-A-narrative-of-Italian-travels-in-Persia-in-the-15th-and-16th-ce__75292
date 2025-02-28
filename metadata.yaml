@@ -12,6 +12,9 @@ contributor:
     deathdate: 1554
     gutenberg_agent_id: '57917'
     url: http://www.gutenberg.org/2009/agents/57917
+covers:
+- cover_type: archival
+  image_path: 75292-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Barbaro, Giosofat
@@ -40,6 +43,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39352
     wikipedia: https://en.wikipedia.org/wiki/Henry_Stanley,_3rd_Baron_Stanley_of_Alderley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75292#Travels-to-Tana-and-Persia-b-A-narrative-of-Italian-travels-in-Persia-in-the-15th-and-16th-ce_
 gutenberg_issued: '2025-02-04'
 gutenberg_type: Text
 identifiers:
